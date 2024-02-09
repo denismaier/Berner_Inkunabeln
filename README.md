@@ -1,5 +1,5 @@
 # Berner_Inkunabeln
-Dieses Repositiory wird die Materialien (Code und Daten) für die Erstellung des Berner Inkunabelkatalogs ("Die Inkunabeln in der Universität Bern") enthalten.
+Dieses Repositiory wird die Materialien (Code und Daten) für die Erstellung des Berner Inkunabelkatalogs ([Die Inkunabeln in der Universität Bern](	https://doi.org/10.36950/kat-ink-2023) enthalten.
 
 ## 01_Code_Download_Metadaten_Inkunabeln
 Enthält den Code für den automatisierten Download der Inkunabel-Metadaten sowie ein Excel-File, in welches die für den Download erforderlichen Network IDs der Inkunabel-Metadaten abgelegt sind.
